@@ -1,7 +1,7 @@
-def using_times
-	#your code here
+def using_until
+  levitation_force =6
+  until levitation_force == 10 
+  levitation_force += 10
+  puts levitation_force
+  puts "Wingardium Leviosa"
 end
-
-
-
-
